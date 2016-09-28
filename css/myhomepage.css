@@ -1,0 +1,14 @@
+body {
+    background-image: url("/home/user/Kim/assets/background.gif");
+    background-color: black;
+}
+h1 {
+    color: white;
+    font: verdana;
+}
+img {
+  display: block;
+  width: 15%;
+  height: 15%;
+  margin: 30px;
+}

@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+h1,p {
+    color: white;
+    font: verdana;
+}
+img {
+  display: block;
+  width: 40%;
+  height: 40%;
+  margin: 40px;
+}
+.rotate {
+    -ms-transform: rotate(90deg); /* IE 9 */
+    -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+    transform: rotate(90deg);
+}

@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+h1, h3, p, label {
+    color: white;
+}
+form {
+    height:100%;
+    flex: 1 1 auto;
+    margin:0 auto;
+    display:block;
+}
+
+form input {
+    margin: 10px;
+    display:block;
+}
